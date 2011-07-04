@@ -3,8 +3,9 @@
 #from
 #Cluetrain Manifesto
 
+!SLIDE center
+
 ## by
 ## Amit Kumar
 
-!SLIDE center
 # 1. Markets are conversations.
