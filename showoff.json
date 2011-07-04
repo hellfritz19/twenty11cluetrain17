@@ -2,14 +2,7 @@
   "name": "Amit Kumar",
   "description": "Amit Kumar",
   "sections": [
-    { "section" : "start1" },
-	{ "section" : "start2" },
-	{ "section" : "start3" },
-	{ "section" : "start4" },
-	{ "section" : "start5" },
-	{ "section" : "start6" },
-	{ "section" : "start7" },
-	{ "section" : "start8" },
-	{ "section" : "start9" }
+    { "section" : "start1" }
+
   ]
 }
