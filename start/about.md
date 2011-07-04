@@ -2,7 +2,8 @@
 # 95 Theses 
 from
 Cluetrain Manifesto
-# by
+
+##by
 Amit Kumar
 
 !SLIDE chat
