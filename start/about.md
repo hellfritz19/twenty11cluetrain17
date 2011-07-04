@@ -1,5 +1,5 @@
 !SLIDE master
-# 95 Theses 
+# 95 Theses #
 from
 Cluetrain Manifesto
 
