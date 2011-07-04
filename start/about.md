@@ -6,7 +6,7 @@
 ## by
 ## Amit Kumar
 
-!SLIDE center
+<!SLIDE center smaller>
 # 1. Markets are conversations.
 
 
