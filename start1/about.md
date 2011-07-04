@@ -6,13 +6,13 @@
 ## by
 ## Amit Kumar
 
-!SLIDE center smaller
+!SLIDE smaller
 # 1. Markets are conversations.
 
-!SLIDE center smaller
+!SLIDE smaller
 # 2. Markets consist of human beings, not demographic sectors.
 
-!SLIDE center smaller
+!SLIDE smaller
 # 3. Conversations among human beings sound human. They are conducted in a human voice. 
 
 !SLIDE center smaller
