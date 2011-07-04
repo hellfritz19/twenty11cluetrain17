@@ -3,9 +3,10 @@
 #from
 #Cluetrain Manifesto
 
-!SLIDE center
-
 ## by
 ## Amit Kumar
 
+!SLIDE center
+
 # 1. Markets are conversations.
+# 2. Markets consist of human beings, not demographic sectors.
